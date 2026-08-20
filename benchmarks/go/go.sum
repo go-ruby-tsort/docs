@@ -1,2 +1,4 @@
 github.com/go-ruby-tsort/tsort v0.0.0-20260629151245-27c44f985c8b h1:qTw5CoNYJccf05o0QlyoYwaOik4RIrUI76HAR7RGqRw=
 github.com/go-ruby-tsort/tsort v0.0.0-20260629151245-27c44f985c8b/go.mod h1:QMZn01XgIYihSr1pAeqHtM5DNuf7q92rJzO1Uj1diwE=
+github.com/go-ruby-tsort/tsort v0.0.0-20260717075041-e5642bd3f641 h1:CQKh5MyT2hC2pFzbYLiAJi006zC2aNFaDp6I6ECn8N4=
+github.com/go-ruby-tsort/tsort v0.0.0-20260717075041-e5642bd3f641/go.mod h1:QMZn01XgIYihSr1pAeqHtM5DNuf7q92rJzO1Uj1diwE=
