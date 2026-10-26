@@ -1,5 +1,5 @@
 module bench
 
-go 1.26.4
+go 1.27.1
 
-require github.com/go-ruby-tsort/tsort v0.0.0-20260916103639-a7d9f97ff914
+require github.com/go-ruby-tsort/tsort v0.0.0-20261025192155-fe2d787cda87
